@@ -2,15 +2,6 @@
 
 Repository pembelajaran C++ yang berisi berbagai implementasi struktur data dan algoritma fundamental.
 
-## 📚 Daftar Isi
-
-- [Tentang Project](#tentang-project)
-- [Struktur Folder](#struktur-folder)
-- [Cara Menggunakan](#cara-menggunakan)
-- [Topik Pembelajaran](#topik-pembelajaran)
-- [Kontribusi](#kontribusi)
-- [Lisensi](#lisensi)
-
 ## 🎯 Tentang Project
 
 Repository ini dibuat sebagai dokumentasi pembelajaran C++ yang mencakup berbagai topik penting dalam pemrograman, mulai dari struktur data dasar hingga algoritma pencarian yang lebih kompleks.
